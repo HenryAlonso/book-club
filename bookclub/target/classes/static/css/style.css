@@ -1,0 +1,70 @@
+.thick-hr{
+	border: none;
+	border-top: 3px solid black;
+	height: 0;
+}
+.content{
+	padding: 25px;
+	margin: 25px auto;
+	width: 40%;
+}
+
+.errors{
+	color: red;
+}
+.bg{
+	background-color: #9fc5f8;
+	padding: 20px;
+	border: 2px solid black;
+}
+.form-header{
+	text-align: center;
+	padding: 5px;
+	border-bottom: 2px solid black;
+}
+.inline{
+	display: flex;
+
+}
+.one{
+	width: 50%;
+	font-size: 1.25em;
+	margin-right: 15px;
+	border-right: 2px solid black;
+}
+.two{
+	width: 50%;
+}
+.submit{
+	width: 100%;
+}
+.top{
+	margin-top: 25px;
+}
+.profile{
+	margin: 25px;
+	width: 30%;
+}
+.inline{
+	display: flex;
+	flex-direction: column;
+}
+	.inline button{
+		padding: 10px;
+		border-radius: 8px;
+		background-color: #9fc5f8; 
+	}
+.logout{
+	margin-bottom: 15px;
+	align-self: flex-end;
+}
+.border_line{
+	border: 2px solid black;
+}
+.edit{
+	width: 30%;
+	margin: 0 auto;
+}
+.text{
+	font-size: 1.5em;
+}
